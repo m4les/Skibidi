@@ -1,7 +1,7 @@
 # Skibidi
 links >_&lt;
 
-[Google](google.com)
+[Google](https://www.google.com/)
 [Pkmn showdown](play.pokemonshowdown.com)
 [Netflix](Netflix.com)
 [Replit](Replit.com)
